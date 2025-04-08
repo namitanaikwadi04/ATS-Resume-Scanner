@@ -1,6 +1,6 @@
 
 
-# ATS Scanner 2.0
+# ATS Resume Scanner
 
 🚀 An AI-powered tool that analyzes resumes against job descriptions using Large Language Models (LLMs) to help job seekers optimize their applications for Applicant Tracking Systems (ATS).
 
