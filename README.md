@@ -53,7 +53,7 @@ ATS-Scanner/
 ### 1. Clone the repository
 
 ```bash
-git clone git@github.com:VishalPatil54/ATS-Scanner.git
+git clone [git@github.com:namitanaikwadi04/ATS-Resume-Scanner.git]
 cd ATS-Scanner
 ```
 
