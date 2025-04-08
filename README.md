@@ -105,12 +105,6 @@ Open `frontend/index.html` directly in your browser.
 ![image](https://github.com/user-attachments/assets/6ee23bfc-617e-43ec-af1f-5acf47b2c82a)
 
 
----
-
-## 📬 Contact
-
-Made with ❤️ by [Vishal Patil](https://github.com/VishalPatil54)  
-For any inquiries or collaborations, feel free to reach out via LinkedIn or email.
 
 ---
 
